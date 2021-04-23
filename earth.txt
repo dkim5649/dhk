@@ -1,3 +1,5 @@
 Change 1
 
 Changed on Github.com
+
+Another change to cause a conflict.
